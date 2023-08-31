@@ -1,9 +1,16 @@
-## Olá pessoal 👋 Sejam bem vindos!!
+### Olá pessoal 👋 Sejam bem vindos!!
 
-### Eu me chamo Maikon e sou Desenvolvedor Web apaixonado por TECNOLOGIA
+Eu me chamo Maikon e sou Desenvolvedor Web apaixonado por TECNOLOGIA
 
-#### Minhas habilidades estão em HTML5, CSS3, JavaScript e React.js, para desenvolver sites responsivos e com interatividade, buscando 
-proporcionar uma excelente experiencia nos visitantes e usuários.
+Minhas habilidades estão focadas em HTML5, CSS3, JavaScript e React.js, para desenvolver sites responsivos e com interatividade, buscando 
+proporcionar uma excelente experiência nos visitantes e usuários.
+
+Fui selecionado entre os 3 melhores alunos da Triple Ten nos critérios de curiosidade, participação, organização, criatividade e rigor, isso
+me deixou super feliz, pois é o reconhecimento de muito esforço e dedicação nos estudos diários, buscando sempre empregar as melhores práticas 
+e manter sempre um código limpo e de fácil manutenção e compreensão, aplicando as metodologias mais usadas nas empresas.
+
+Também tenho formação superior em Processos Gerenciais, que me dão uma visão mais ampla e 
+
 
 
 <!--
