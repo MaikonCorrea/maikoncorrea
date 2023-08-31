@@ -9,7 +9,7 @@ Fui selecionado entre os 3 melhores alunos da Triple Ten nos critérios de curio
 me deixou super feliz, pois é o reconhecimento de muito esforço e dedicação nos estudos diários, buscando sempre empregar as melhores práticas 
 e manter sempre um código limpo e de fácil manutenção e compreensão, aplicando as metodologias mais usadas nas empresas.
 
-Também tenho formação superior em Processos Gerenciais, que me dão uma visão mais ampla e 
+<!---Também tenho formação superior em Processos Gerenciais, que me dão uma visão mais ampla e ---!>
 
 
 
