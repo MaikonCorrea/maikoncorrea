@@ -1,4 +1,10 @@
-### Olá pessoal 👋 Sejam bem vindos!!
+## Olá pessoal 👋 Sejam bem vindos!!
+
+### Eu me chamo Maikon e sou Desenvolvedor Web apaixonado por TECNOLOGIA
+
+#### Minhas habilidades estão em HTML5, CSS3, JavaScript e React.js, para desenvolver sites responsivos e com interatividade, buscando 
+proporcionar uma excelente experiencia nos visitantes e usuários.
+
 
 <!--
 **MaikonCorrea/maikoncorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
