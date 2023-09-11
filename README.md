@@ -13,15 +13,6 @@ Além de estar estudando na TripleTen, tenho também Curso Superior em Processos
 da melhor forma possível, seja na gestão do nosso tempo, na gestão de pessoas ou contribuindo as pessoas que estão ao nosso redor e que desempenham alguma atividade juntos, causando um impacto significativo e positivo na entrega 
 de resultados.
 
-
-
-#### Estatísticas GitHub:
-<div>
-<a href="https://github.com/MaikonCorrea">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonCorrea&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MaikonCorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-</div>
-
 #### CONTATO:
 <div>
 <a href = "mailto:maikonacorrea@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
