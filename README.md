@@ -19,4 +19,27 @@ de resultados.
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+#### SKILLS:
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=babel" height="34" alt="babel logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="34" alt="webpack logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
+  <img width="20" />
+</div>
