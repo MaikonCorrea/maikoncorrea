@@ -2,7 +2,7 @@
 
 Eu me chamo Maikon e sou Desenvolvedor Web apaixonado por TECNOLOGIA 
 
-Minhas habilidades estão focadas em HTML5, CSS3, JavaScript e React.js, para desenvolver sites responsivos e com interatividade, buscando 
+Minhas habilidades estão focadas em HTML5, CSS3, JavaScript, React.js e Node.js, para desenvolver sites responsivos e com interatividade, buscando 
 proporcionar uma excelente experiência nos visitantes e usuários.
 
 Um fato sobre mim é que fiquei classificado entre os 3 melhores alunos, no curso de Desenvolvimento Web, nos critérios de curiosidade, participação, organização, criatividade e rigor, isso
