@@ -38,6 +38,8 @@ de resultados.
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=webpack" height="34" alt="webpack logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
