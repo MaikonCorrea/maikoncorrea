@@ -1,17 +1,15 @@
 ## Olá pessoal 👋 Sejam bem vindos!!
 
-Eu me chamo Maikon e sou Desenvolvedor Web apaixonado por TECNOLOGIA 
+Eu me chamo Maikon e sou um Desenvolvedor Web FullStack apaixonado por TECNOLOGIA 
 
-Minhas habilidades estão focadas em HTML5, CSS3, JavaScript, React.js e Node.js, para desenvolver sites responsivos e com interatividade, buscando 
-proporcionar uma excelente experiência nos visitantes e usuários.
+Minhas habilidades estão focadas em HTML5, CSS3, JavaScript, React.js e Node.js para desenvolver sites responsivos e com interatividade, buscando 
+proporcionar uma excelente experiência nos usuários.
 
-Um fato sobre mim é que fiquei classificado entre os 3 melhores alunos, no curso de Desenvolvimento Web, nos critérios de curiosidade, participação, organização, criatividade e rigor, isso
-me deixou super feliz, pois é o reconhecimento de muito esforço e dedicação nos estudos diários, buscando sempre empregar as melhores práticas 
-e manter sempre um código limpo, de fácil manutenção e compreensão, aplicando as metodologias mais usadas nas empresas.
+Tenho focado com muito esforço e dedicação nos estudos diários, buscando sempre empregar as melhores práticas 
+e manter sempre um código limpo, de fácil manutenção e compreensão, aplicando as metodologias de desenvolvimento necessárias para isso.
 
-Além de estar estudando Desenvolvimento Web, tenho também Curso Superior em Processos Gerenciais, e acredito que a somatória de tudo aquilo que aprendemos, vai se tornar a base sólida para desempenharmos nossas atividades profissionais
-da melhor forma possível, seja na gestão do nosso tempo, na gestão de pessoas ou contribuindo as pessoas que estão ao nosso redor ao desempenharmos atividades em equipe, causando um impacto significativo e positivo na entrega 
-de resultados.
+Tenho também Curso Superior em Processos Gerenciais, e acredito que a somatória de tudo aquilo que aprendemos, se torna uma base para desempenharmos nossas atividades profissionais
+da melhor forma possível, seja na gestão do nosso tempo, na gestão de pessoas ou contribuindo as pessoas que estão ao nosso redor ao desempenharmos atividades em equipe, causando um impacto significativo e positivo na entrega de resultados.
 
 #### CONTATO:
 <div>
