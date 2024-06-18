@@ -24,9 +24,13 @@ da melhor forma possível, seja na gestão do nosso tempo, na gestão de pessoas
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
   <img width="20" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwind logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=next" height="34" alt="Next logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
   <img width="20" />
