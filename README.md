@@ -2,7 +2,7 @@
 
 Eu me chamo Maikon e sou um Desenvolvedor Web FullStack apaixonado por TECNOLOGIA 
 
-Minhas habilidades estão focadas em HTML5, CSS3, JavaScript, React.js e Node.js para desenvolver sites responsivos e com interatividade, buscando 
+Minhas habilidades estão focadas em HTML5, CSS3, Tailwind.css JavaScript, React.js, Next.js e Node.js para desenvolver sites responsivos e com interatividade, buscando 
 proporcionar uma excelente experiência nos usuários.
 
 Tenho focado com muito esforço e dedicação nos estudos diários, buscando sempre empregar as melhores práticas 
